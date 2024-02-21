@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    image: practice
+    ports:
+      - "8085:80"
+    volumes:
+      - ./practices:/var/www/html
+
+

@@ -1,0 +1,3 @@
+zarrina: 777
+zafar: 555
+sojida: 999
