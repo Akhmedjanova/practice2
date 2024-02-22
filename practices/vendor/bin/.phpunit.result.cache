@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UsersTest::testCheckCredentialsReturnsTrueForValidCredentials":7},"times":{"UsersTest::testCheckCredentialsReturnsTrueForValidCredentials":0.019,"UsersTest::testCheckCredentialsReturnsFalseForInvalidCredentials":0.002,"UsersTest::testCheckCredentialsReturnsFalseForNonexistentUser":0}}
